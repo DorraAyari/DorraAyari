@@ -1,7 +1,4 @@
-<p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Dorra Ayari</h1>
 
@@ -11,11 +8,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
-</p>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
 <br><br>
+
 
 - 🔭 I’m currently working on understanding myself...
 - 🌱 I’m currently learning everything...
